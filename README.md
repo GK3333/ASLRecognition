@@ -1,2 +1,2 @@
 # ASLRecognition
-A project to train a convolutional neural network for classifying American Sign Language letters, enhancing communication accessibility for the deaf and hard-of-hearing.
+In this project, a convolutional neural network (CNN) is trained to classify images of American Sign Language (ASL) letters. The project involves loading, examining, and preprocessing the dataset of ASL images. After preparing the data, the CNN is trained to recognize and classify each letter represented in the ASL alphabet. The performance of the model is then tested to evaluate its accuracy in classifying the ASL letters. This project aims to create a model that can accurately interpret ASL, potentially aiding communication for deaf and hard-of-hearing individuals.
